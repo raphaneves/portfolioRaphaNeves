@@ -1,0 +1,20 @@
+body{
+    font-family: Monaco, monospace;
+    text-align: justify;
+    width: 85%;
+    margin: auto;
+}
+
+#paragrafo{
+    color: #015958;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    color: #015958;
+}
+
